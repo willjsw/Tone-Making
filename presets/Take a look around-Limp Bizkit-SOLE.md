@@ -60,16 +60,28 @@ flowchart LR
 
 ### 물리 페달 설정
 
-| 페달 | ON/OFF | 노브·스위치 |
-| --- | --- | --- |
-| [[tc-electronic-polytune-3]] | ON (상시) | Bonafide Buffer ON |
-| [[fulltone-ocd]] | 드라이브 시 ON (클린 OFF) | LP · Vol 2시 / Drive 9시 / Tone 12시 |
-| [[suhr-riot]] | OFF | - |
-| [[mooer-pure-booster]] | OFF | - |
-| [[fairfield-circuitry-meet-maude]] | OFF | - |
-| [[wampler-terraform]] | 클린 시 ON (드라이브 OFF) | Chorus / Rate 10시 / Depth 1시 / Blend 12시 |
-| [[boss-dd-7]] | 클린 시 ON (드라이브 OFF) | Analog / E.Level 1시 / F.Back 1시 / D.Time 12시 |
-| [[neunaber-immerse]] | ON (상시) | Wet 또는 Spring / Mix 12시 / Depth 12시 / Tone·Time 11시 |
+| 페달 | ON/OFF | 노브/스위치 | 값 |
+| --- | --- | --- | --- |
+| [[tc-electronic-polytune-3]] | ON (상시) | Buffer | Bonafide Buffer ON |
+| [[fulltone-ocd]] | 드라이브 시 ON (클린 OFF) | HP/LP | LP |
+| | | Volume | 2시 |
+| | | Drive | 9시 |
+| | | Tone | 12시 |
+| [[suhr-riot]] | OFF | - | - |
+| [[mooer-pure-booster]] | OFF | - | - |
+| [[fairfield-circuitry-meet-maude]] | OFF | - | - |
+| [[wampler-terraform]] | 클린 시 ON (드라이브 OFF) | Mode | Chorus |
+| | | Rate | 10시 |
+| | | Depth | 1시 |
+| | | Blend | 12시 |
+| [[boss-dd-7]] | 클린 시 ON (드라이브 OFF) | Mode | Analog |
+| | | E.Level | 1시 |
+| | | F.Back | 1시 |
+| | | D.Time | 12시 |
+| [[neunaber-immerse]] | ON (상시) | Mode | Wet 또는 Spring |
+| | | Mix | 12시 |
+| | | Depth | 12시 |
+| | | Tone/Time | 11시 |
 
 ## Play (곡 진행별 톤 변경)
 
