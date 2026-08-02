@@ -1,0 +1,13 @@
+# Obsidian 설정 (지식 콘텐츠 아님)
+.obsidian/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*.tmp
+*~
+
+# 레거시 원본(내용 이관 완료, 보존용)
+_archive/
