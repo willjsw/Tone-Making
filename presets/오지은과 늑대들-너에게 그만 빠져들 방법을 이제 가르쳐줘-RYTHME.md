@@ -56,16 +56,22 @@ flowchart LR
 
 ### 물리 페달 설정
 
-| 페달 | ON/OFF | 노브·스위치 |
-| --- | --- | --- |
-| [[tc-electronic-polytune-3]] | ON (상시) | Bonafide Buffer ON |
-| [[fulltone-ocd]] | ON (상시) | HP · Vol 12~1시 / Drive 10~11시 / Tone 11시 |
-| [[suhr-riot]] | OFF | - |
-| [[mooer-pure-booster]] | OFF | - |
-| [[fairfield-circuitry-meet-maude]] | OFF | - |
-| [[wampler-terraform]] | OFF | - |
-| [[boss-dd-7]] | OFF | - |
-| [[neunaber-immerse]] | ON (상시) | Spring / Mix 11~12시 / Depth 11시 / Tone·Time 11시 |
+| 페달 | ON/OFF | 노브/스위치 | 값 |
+| --- | --- | --- | --- |
+| [[tc-electronic-polytune-3]] | ON (상시) | Buffer | Bonafide Buffer ON |
+| [[fulltone-ocd]] | ON (상시) | HP/LP | HP |
+| | | Volume | 12~1시 |
+| | | Drive | 10~11시 |
+| | | Tone | 11시 |
+| [[suhr-riot]] | OFF | - | - |
+| [[mooer-pure-booster]] | OFF | - | - |
+| [[fairfield-circuitry-meet-maude]] | OFF | - | - |
+| [[wampler-terraform]] | OFF | - | - |
+| [[boss-dd-7]] | OFF | - | - |
+| [[neunaber-immerse]] | ON (상시) | Mode | Spring |
+| | | Mix | 11~12시 |
+| | | Depth | 11시 |
+| | | Tone/Time | 11시 |
 
 ## Play (곡 진행별 톤 변경)
 
