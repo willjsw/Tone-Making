@@ -59,16 +59,28 @@ flowchart LR
 
 ### 물리 페달 설정
 
-| 페달 | ON/OFF | 노브·스위치 |
-| --- | --- | --- |
-| [[tc-electronic-polytune-3]] | ON (상시) | Bonafide Buffer ON |
-| [[fulltone-ocd]] | ON (상시) | HP · Vol 2시 / Drive 9~10시 / Tone 1시 |
-| [[suhr-riot]] | OFF | - |
-| [[mooer-pure-booster]] | OFF (솔로 시 ON) | Vol 2시 / Gain 9시 / Bass·Treble 12시 |
-| [[fairfield-circuitry-meet-maude]] | OFF | - |
-| [[wampler-terraform]] | OFF | - |
-| [[boss-dd-7]] | OFF (솔로·탭핑 시 ON) | 800ms / E.Level 12시 / F.Back 1시 / D.Time 템포 맞춤 |
-| [[neunaber-immerse]] | ON (상시) | Plate / Mix 10시 / Depth 11시 / Tone·Time 12시 |
+| 페달 | ON/OFF | 노브/스위치 | 값 |
+| --- | --- | --- | --- |
+| [[tc-electronic-polytune-3]] | ON (상시) | Buffer | Bonafide Buffer ON |
+| [[fulltone-ocd]] | ON (상시) | HP/LP | HP |
+| | | Volume | 2시 |
+| | | Drive | 9~10시 |
+| | | Tone | 1시 |
+| [[suhr-riot]] | OFF | - | - |
+| [[mooer-pure-booster]] | OFF (솔로 시 ON) | Volume | 2시 |
+| | | Gain | 9시 |
+| | | Bass | 12시 |
+| | | Treble | 12시 |
+| [[fairfield-circuitry-meet-maude]] | OFF | - | - |
+| [[wampler-terraform]] | OFF | - | - |
+| [[boss-dd-7]] | OFF (솔로·탭핑 시 ON) | Mode | 800ms |
+| | | E.Level | 12시 |
+| | | F.Back | 1시 |
+| | | D.Time | 템포 맞춤 |
+| [[neunaber-immerse]] | ON (상시) | Mode | Plate |
+| | | Mix | 10시 |
+| | | Depth | 11시 |
+| | | Tone/Time | 12시 |
 
 ## Play (곡 진행별 톤 변경)
 
