@@ -58,16 +58,30 @@ flowchart LR
 
 ### 물리 페달 설정
 
-| 페달 | ON/OFF | 노브·스위치 |
-| --- | --- | --- |
-| [[tc-electronic-polytune-3]] | ON (상시) | Bonafide Buffer ON |
-| [[fulltone-ocd]] | OFF | - |
-| [[suhr-riot]] | ON (상시) | Voice 가운데 또는 왼쪽 / Level 12시 / Dist 2~3시(과격함) / Tone 1~2시 |
-| [[mooer-pure-booster]] | OFF | - |
-| [[fairfield-circuitry-meet-maude]] | ON (상시) | Time 11시 / Fbk 1시 / Mix 1시 (앰프 앞단 아날로그 딜레이) |
-| [[wampler-terraform]] | ON (상시) | Flanger 또는 Chorus / Rate 10시 / Depth 2시 / Blend 12시 |
-| [[boss-dd-7]] | ON (상시) | Modulate / E.Level 1~2시(원음 수준) / F.Back 2시 / D.Time 12~1시 |
-| [[neunaber-immerse]] | ON (상시) | W3T 또는 Wet / Mix 3시 이상(압도적) / Depth 3시 이상 / Tone·Time 1시 |
+| 페달 | ON/OFF | 노브/스위치 | 값 |
+| --- | --- | --- | --- |
+| [[tc-electronic-polytune-3]] | ON (상시) | Buffer | Bonafide Buffer ON |
+| [[fulltone-ocd]] | OFF | - | - |
+| [[suhr-riot]] | ON (상시) | Voice | 가운데 또는 왼쪽 |
+| | | Level | 12시 |
+| | | Dist | 2~3시 (과격함) |
+| | | Tone | 1~2시 |
+| [[mooer-pure-booster]] | OFF | - | - |
+| [[fairfield-circuitry-meet-maude]] | ON (상시) | Time | 11시 |
+| | | Fbk | 1시 |
+| | | Mix | 1시 (앰프 앞단 아날로그 딜레이) |
+| [[wampler-terraform]] | ON (상시) | Mode | Flanger 또는 Chorus |
+| | | Rate | 10시 |
+| | | Depth | 2시 |
+| | | Blend | 12시 |
+| [[boss-dd-7]] | ON (상시) | Mode | Modulate |
+| | | E.Level | 1~2시 (원음 수준) |
+| | | F.Back | 2시 |
+| | | D.Time | 12~1시 |
+| [[neunaber-immerse]] | ON (상시) | Mode | W3T 또는 Wet |
+| | | Mix | 3시 이상 (압도적) |
+| | | Depth | 3시 이상 |
+| | | Tone/Time | 1시 |
 
 ## Play (곡 진행별 톤 변경 — 레이어 구축)
 
