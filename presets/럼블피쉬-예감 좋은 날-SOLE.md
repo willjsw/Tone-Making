@@ -58,16 +58,25 @@ flowchart LR
 
 ### 물리 페달 설정
 
-| 페달 | ON/OFF | 노브·스위치 |
-| --- | --- | --- |
-| [[tc-electronic-polytune-3]] | ON (상시) | Bonafide Buffer ON |
-| [[fulltone-ocd]] | ON (상시) | LP · Vol 12시 / Drive 9~10시 / Tone 12시 |
-| [[suhr-riot]] | OFF | - |
-| [[mooer-pure-booster]] | OFF (솔로 ON) | Vol 2~3시(볼륨 부스팅) / Gain 9시 |
-| [[fairfield-circuitry-meet-maude]] | OFF | - |
-| [[wampler-terraform]] | OFF | - |
-| [[boss-dd-7]] | OFF (솔로 ON) | 800ms 또는 Analog / E.Level 10~11시 / F.Back 10시 |
-| [[neunaber-immerse]] | ON (상시) | Plate / Mix 9~10시 / Depth 10시 / Tone·Time 12시 |
+| 페달 | ON/OFF | 노브/스위치 | 값 |
+| --- | --- | --- | --- |
+| [[tc-electronic-polytune-3]] | ON (상시) | Buffer | Bonafide Buffer ON |
+| [[fulltone-ocd]] | ON (상시) | HP/LP | LP |
+| | | Volume | 12시 |
+| | | Drive | 9~10시 |
+| | | Tone | 12시 |
+| [[suhr-riot]] | OFF | - | - |
+| [[mooer-pure-booster]] | OFF (솔로 ON) | Volume | 2~3시 (볼륨 부스팅) |
+| | | Gain | 9시 |
+| [[fairfield-circuitry-meet-maude]] | OFF | - | - |
+| [[wampler-terraform]] | OFF | - | - |
+| [[boss-dd-7]] | OFF (솔로 ON) | Mode | 800ms 또는 Analog |
+| | | E.Level | 10~11시 |
+| | | F.Back | 10시 |
+| [[neunaber-immerse]] | ON (상시) | Mode | Plate |
+| | | Mix | 9~10시 |
+| | | Depth | 10시 |
+| | | Tone/Time | 12시 |
 
 ## Play (곡 진행별 톤 변경)
 
